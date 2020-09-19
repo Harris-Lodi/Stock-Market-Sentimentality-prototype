@@ -12,4 +12,6 @@
   <li>Textblob - pip install textblob - https://pypi.org/project/textblob/</li>
   <li>SciKit-learn (aka: sklearn) - pip install scikit-learn - https://pypi.org/project/scikit-learn/</li>
   <li>Matplotlib - pip install matplotlib - https://pypi.org/project/matplotlib/</li>
+  <li>Plotly - pip install plotly - https://pypi.org/project/plotly/</li>
+  <li>nbformat - pip install nbformat - https://pypi.org/project/nbformat/</li>
  </ul>
