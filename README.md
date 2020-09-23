@@ -14,4 +14,7 @@
   <li>Matplotlib - pip install matplotlib - https://pypi.org/project/matplotlib/</li>
   <li>Plotly - pip install plotly - https://pypi.org/project/plotly/</li>
   <li>nbformat - pip install nbformat - https://pypi.org/project/nbformat/</li>
+  <li>Newpaper3k - pip install newspaper3k - https://pypi.org/project/newspaper3k/</li>
+  <li>TextBlob - pip install textblob - https://pypi.org/project/textblob/</li>
+  <li>Natural Language Toolkit (aka: NLTK) - pip install nltk - https://pypi.org/project/nltk/</li>
  </ul>
