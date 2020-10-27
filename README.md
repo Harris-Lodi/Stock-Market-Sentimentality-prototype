@@ -18,4 +18,6 @@
   <li>TextBlob - pip install textblob - https://pypi.org/project/textblob/</li>
   <li>Natural Language Toolkit (aka: NLTK) - pip install nltk - https://pypi.org/project/nltk/</li>
   <li>Pandas DataReader - pip install pandas-datareader - https://pypi.org/project/pandas-datareader/</li>
+  <li>Requests - pip install requests - https://pypi.org/project/requests/ </li>
+  <li>BeautifulSoup - pip install beautifulsoup4 - pip install bs4 - https://pypi.org/project/beautifulsoup4/</li>
  </ul>
