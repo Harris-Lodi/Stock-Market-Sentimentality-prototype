@@ -1,6 +1,6 @@
 # Stock-Market-Sentimentality-prototype
- A project copied from the web to create a prototype for a python program that determines stock market sentimentality. <br />
- This project also focuses on anything stock makret related that I come up with as a python project!<br />
+ This project is a series of examples I have made using python to predict stock prices using different methods. <br />
+ This project is based on examples and tutorials and papers I found on the internet, these are prototypes that I plan on creating a new project based on with!<br />
  This project is a precursor for an official project that shares the same goal as this! <br />
  This project also uses machine learning.<br />
 
